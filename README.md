@@ -1,2 +1,2 @@
-# Mock-json
+# mockjson
 Data testing
