@@ -1,2 +1,2 @@
 # mockjson
-Data testing
+Data for My-collection-photos
